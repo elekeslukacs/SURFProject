@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="common.cpp" />
+    <ClCompile Include="OpenCVApplication.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="project_main.cpp" />
+    <ClCompile Include="surf_detection.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="surf_structures.h" />
+    <ClInclude Include="surf_detection.h" />
+  </ItemGroup>
+</Project>
